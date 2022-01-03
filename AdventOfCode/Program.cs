@@ -4,8 +4,9 @@
     {
         static void Main(string[] args)
         {
-            var d = new Day25() ;
-            d.Solution1();
+            var day = new Day1();
+            day.Solution1();
+            //day.Solution2();
         }
     }
 }
